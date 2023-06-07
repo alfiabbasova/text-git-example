@@ -4,9 +4,7 @@
 
 * one
 * two
-*  Some item
-*  Like 4 item
-* 5 item
-* like 6 item
+* Some item
+* Like 4 item
 
 ## subtitle 3
